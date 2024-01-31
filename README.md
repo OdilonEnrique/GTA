@@ -17,10 +17,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - **[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**
   <img align="center" alt="CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 
-<!-- ## Links
+## Links
 
 <ul>
     <li>
-        <a href="https://odilonenrique.github.io/OnePiece/">Deploy</a>
+        <a href="https://odilonenrique.github.io/GTA/">Deploy</a>
     </li>
-</ul> -->
+</ul>
